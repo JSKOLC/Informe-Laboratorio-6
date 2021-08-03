@@ -117,7 +117,7 @@ fuente, RS.
 
 6.5.3.3.3. Una vez encontrada la intensidad para cada valor de RL, procedemos a encontrar el voltaje en RL. aplicando la ley de Ohm.
 
-![imagen](https://user-images.githubusercontent.com/85263529/128038196-ec28e78c-660c-40f8-84d5-0d7a53e6922d.png)
+![imagen](https://user-images.githubusercontent.com/85263529/128039581-eaa9361c-3e59-4756-a913-0948e80c932a.png)
 
 6.5.3.3.4. Finalmente procedemos a encontrar la potencia suministrada por cada valor que toma RL.
 
