@@ -152,6 +152,7 @@ Por lo tanto queda demostrado que el teorema de maxima transferencia de potencia
 
 6.7.VIDEO
 
+https://youtu.be/lf3L2Pfohxo
 
 
 6.8.CONCLUSIONES
