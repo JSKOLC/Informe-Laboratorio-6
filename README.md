@@ -135,14 +135,19 @@ Tabla 6.1. Parámetros eléctricos del circuito de la figura 6.1
 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? 
 Argumente su respuesta.
 
+Si se cumple el teorema de maxima transferencia de potencia, ya que existe una resistencia que se acerca mucho al valor de la resistencia interna. En este caso el valor de la resistencia interna es de  1 200 ohmios. por lo tanto la resistencia de 1 000 ohmios es la mas cercana y en esta resistencia esta el valor maximo de tranferencia de potencia.
+
+Cabe recalcar que tambien tenemos una resistencia de 1 500 ohmios la cual esta tambien cerca a nuestro valor de la resistencia interna. pero no es la ideal. 
+
+Por lo tanto queda demostrado que el teorema de maxima transferencia de potencia esta en nuestra resistencia de 1 000 Ohmios.
 
 
-6.5.5. ¿Cuál fue la potencia máxima en RL? ________0.0465__________Watts
+6.5.5. ¿Cuál fue la potencia máxima en RL? 
 
+0.0465 Watts
 
-
-6.5.6. ¿Para qué valor de RL se obtiene la MTP? ______1 000_________ Ω
-
+6.5.6. ¿Para qué valor de RL se obtiene la MTP?
+1 000 Ohmios
 
 6.7.VIDEO
 
