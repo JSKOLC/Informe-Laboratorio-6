@@ -20,8 +20,24 @@ POTENCIA.
 Objetivos Generales:
 
 
+-Comprobar mediante el análisis, práctica y simulación por computadora, el Teorema de Máxima Transferencia de 
+
+Potencia que se da a través de una resistencia de carga con valor RL conectada a un circuito emisor de dicha 
+
+potencia.
+
+
 
 Objetivos Específicos:
+
+-Estudiar y verificar de forma experimental el teorema propuesto, evidenciando de manera analítica y gráfica, la
+
+importancia de la eficiencia a partir de los datos tomados en el laboratorio. 
+
+-Investigar el efecto de la variación de la carga en la potencia entregada por un circuito.
+
+-Demostrar el Teorema de Máxima transferencia de Potencia en corriente directa.
+
 
 
 4.2 MARCO TEORICO:
@@ -74,6 +90,15 @@ Argumente su respuesta.
 
 4.8.CONCLUSIONES
 
+En este laboratorio acerca de la máxima transferencia de potencia conseguimos aprender cómo esta teoría está
+relacionada con la que ya hemos estudiado anteriormente como el teorema de thevernin y Norton, también alcanzamos
+notar la relación de que, al aumentar la resistencia y el voltaje, la corriente y la potencia disminuye.
+
+Elegir un voltaje que sea un numero entero ya que eso nos puede facilitar los cálculos tanto de error como
+de corriente.
+
+Reducir un circuito complejo a una fuente y resistencia de Thevenin nos ayuda para poder determinar más rápido la
+transferencia de potencia hacia un resistor.
 
 
 4.9.BIBLIOGRAFÍA 
