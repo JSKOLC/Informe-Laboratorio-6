@@ -147,6 +147,7 @@ Por lo tanto queda demostrado que el teorema de maxima transferencia de potencia
 0.0465 Watts
 
 6.5.6. ¿Para qué valor de RL se obtiene la MTP?
+
 1 000 Ohmios
 
 6.7.VIDEO
