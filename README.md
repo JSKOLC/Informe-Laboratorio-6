@@ -24,7 +24,10 @@ Objetivos Generales:
 Objetivos Específicos:
 
 
-4.2 MARCO TEORICO
+4.2 MARCO TEORICO:
+
+![image](https://user-images.githubusercontent.com/85263529/127955903-0bd34091-41ac-45ff-a073-05be04eee511.png)
+
 
 
 4.3 INFORMACIÓN GENERAL
